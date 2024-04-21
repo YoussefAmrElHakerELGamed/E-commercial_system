@@ -7,12 +7,12 @@ Product class: a base class for all other products having the basic parameters f
       
   inherited from it
   
-  > BookProduct class: a Book product class from the name having the related parameters for a book.
+    BookProduct class: a Book product class from the name having the related parameters for a book.
     like the book author and publisher. as usual there are setters and getters for all parameters in that class.
   
-> ClothingProduct class: inherited from the Product class and having the cloth size and fabric material. the setters and getters are there as well.
+    ClothingProduct class: inherited from the Product class and having the cloth size and fabric material. the setters and getters are there as well.
   
-  > ElectronicProduct class: inherited from Product as well, having the electronic device brand and warranty period as a parameters, and with no doubt there are setter and getter for your convenient.
+    ElectronicProduct class: inherited from Product as well, having the electronic device brand and warranty period as a parameters, and with no doubt there are setter and getter for your convenient.
 
 "any super market needs a cart"
 for this fact the project has a Cart Class.>>
