@@ -15,7 +15,7 @@ Product class: a base class for all other products having the basic parameters f
   > ElectronicProduct class: inherited from Product as well, having the electronic device brand and warranty period as a parameters, and with no doubt there are setter and getter for your convenient.
 
 "any super market needs a cart"
-for this fact the project has a Cart Class.
+for this fact the project has a Cart Class.>>
             >Cart class: having cart parameters cart id, the number of product in it and the product in it, having a more complex composition from the previous classes adding addProduct and removeProduct methods for editing the products list and calculate price method for -you guessed it🥳- calculating the total price and finally the place order method for completing the purchase process. there are setters and getters (as a matter of fact, i don't know why a keep telling you that untill now 🙂)
 
 "any business needs someone to buy his merchandise 💵💵"
@@ -24,7 +24,7 @@ for this we need a customer.
 
 "the time for the order"
 here the order class comes into place.
-<Order class: having customer id , products list and the total price parameters, having a special method print order info that is, for printing the final receipt.
+>Order class: having customer id , products list and the total price parameters, having a special method print order info that is, for printing the final receipt.
 
 
 
