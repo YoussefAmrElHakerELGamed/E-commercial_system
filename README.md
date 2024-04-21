@@ -5,7 +5,7 @@ it's composed of 8 classes and main class
 Product class: a base class for all other products having the basic parameters for a product 
       like the product id, product name and product price and having all setters and getters ready for use
       
-  inherited from it
+inherited from it
 
 >BookProduct class: a Book product class from the name having the related parameters for a book.
 like the book author and publisher. as usual there are setters and getters for all parameters in that class.
@@ -22,7 +22,7 @@ for this fact the project has a Cart Class.>>
 for this we need a customer.
 >Customer class: having the parameters of any normal human being id, name and address.
 
-"the time for the order"
+"the time to order"
 here the order class comes into place.
 >Order class: having customer id , products list and the total price parameters, having a special method print order info that is, for printing the final receipt.
 
@@ -36,4 +36,4 @@ here it comes the MAIN Class for all the hard work
       in the end we confirm the user to purchase or not if yes we print the order and author wise exiting after greating the user.
 
 and in the end that was a quick look at this simple program and think you for your time. 🤝
-                                                                                                                                                            --Youssef Amr--
+>--Youssef Amr--<
