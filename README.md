@@ -20,11 +20,11 @@ for this fact the project has a Cart Class.
 
 "any business needs someone to buy his merchandise 💵💵"
 for this we need a customer.
-Customer class: having the parameters of any normal human being id, name and address.
+>Customer class: having the parameters of any normal human being id, name and address.
 
 "the time for the order"
 here the order class comes into place.
-Order class: having customer id , products list and the total price parameters, having a special method print order info that is, for printing the final receipt.
+<Order class: having customer id , products list and the total price parameters, having a special method print order info that is, for printing the final receipt.
 
 
 
