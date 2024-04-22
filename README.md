@@ -1,6 +1,6 @@
 it's a college first year project, a E-commercial system for like a super market 
 
-it's composed of 8 classes and main class
+it's composed of 7 classes and main class
 
 Product class: a base class for all other products having the basic parameters for a product 
       like the product id, product name and product price and having all setters and getters ready for use
