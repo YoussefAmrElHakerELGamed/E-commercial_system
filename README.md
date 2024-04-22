@@ -24,16 +24,16 @@ for this we need a customer.
 
 "the time to order"
 here the order class comes into place.
->Order class: having customer id , products list and the total price parameters, having a special method print order info that is, for printing the final receipt.
+>Order class: having customer id , products list and the total price parameters, having a special method print order info that is, for printing the final bill.
 
 
 
 here it comes the MAIN Class for all the hard work
       first, we make a new cart , customer and there products that is a book product
       , a clothing product and a electronic product.
-      after that, we follow with printing the program tital and setting the cart and customer parameters in a separate method each.
+      after that, we follow with printing the program title and setting the cart and customer parameters in a separate method each.
       printing the main Manu to select what product to purchase.
-      in the end we confirm the user to purchase or not if yes we print the order and author wise exiting after greating the user.
+      in the end we confirm the user to purchase or not if yes we print the order author wise exiting after greating the user.
 
 and in the end that was a quick look at this simple program and think you for your time. 🤝
 >--Youssef Amr--
